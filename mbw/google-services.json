@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:347858850803:android:1a1292317ade1f60",
         "android_client_info": {
-          "package_name": "com.mycelium.testnetwallet"
+          "package_name": "com.mycelium.testnetwalletan"
         }
       },
       "oauth_client": [],
@@ -29,7 +29,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:347858850803:android:48ab5dd155749000",
         "android_client_info": {
-          "package_name": "com.mycelium.testnetwallet.debug"
+          "package_name": "com.mycelium.testnetwalletan.debug"
         }
       },
       "oauth_client": [],
