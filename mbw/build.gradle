@@ -365,8 +365,8 @@ android {
             logger.info("Signing config is ", signingConfig)
         }
         btctestnet {
-            applicationId 'com.mycelium.testnetwallet'
-            versionName = defaultConfig.versionName + '-TESTNET'
+            applicationId 'com.mycelium.testnetwalletan'
+            versionName = defaultConfig.versionName + '-TESTNET3'
             signingConfig signingConfigs.btctestnet
 
             ext {
