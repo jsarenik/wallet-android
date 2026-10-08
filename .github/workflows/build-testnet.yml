@@ -3,13 +3,11 @@ name: Build Mycelium Testnet APK
 on:
   push:
     branches: [master, ci-build-apk-test]
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
-
-on:
-  workflow_dispatch:
 
 jobs:
   build:
