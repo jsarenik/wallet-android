@@ -79,8 +79,8 @@ class MbwTestnet4Environment : MbwEnvironment() {
                 BitcoinTest.name to listOf(
                     BlockExplorer(
                         "MPS", "mempool.space",
-                        "https://mempool.space/testnet4/address/",
-                        "https://mempool.space/testnet4/tx/",
+                        "https://mempool.space/testnet/address/",
+                        "https://mempool.space/testnet/tx/",
                         null,
                         null
                     )
